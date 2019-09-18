@@ -1,4 +1,4 @@
-# How-to-use-github
+# Github基本のキ
 Githubの基本を簡単にまとめる。
 
 ## ブラウザからの操作まとめ
